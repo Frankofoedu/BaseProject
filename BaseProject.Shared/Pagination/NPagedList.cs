@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GISProject.Web.Shared.Pagination
+namespace Baseproject.Shared.Pagination
 {
     public class NPagedList<T> : List<T>
     {

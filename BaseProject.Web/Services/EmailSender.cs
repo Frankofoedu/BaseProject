@@ -1,4 +1,4 @@
-﻿using Shared.Web.Interfaces;
+﻿using BaseProject.Web.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +7,7 @@ using System.Net.Mail;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Shared.Web.Services
+namespace BaseProject.Web.Services
 {
     public class EmailSender : IEmailSender
     {

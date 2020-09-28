@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Shared.Shared
+namespace BaseProject.Shared
 {
     public enum ApiResponseCodes
     {

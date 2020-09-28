@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Shared.Web.Models
+namespace BaseProject.Web.Models
 {
     public class ApplicationUser : IdentityUser
     {

@@ -1,12 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using BaseProject.Shared;
+using Microsoft.AspNetCore.Mvc;
 using NLog;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using Shared.Shared;
-using SHared.Shared;
 
-namespace Shared.Web
+namespace BaseProject.Web
 {
     [Route("api/[controller]")]
     [ApiController]

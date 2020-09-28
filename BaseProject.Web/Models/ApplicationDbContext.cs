@@ -8,7 +8,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Shared.Web.Models
+namespace BaseProject.Web.Models
 {
     public class ApplicationDbContext : ApiAuthorizationDbContext<ApplicationUser>
     {

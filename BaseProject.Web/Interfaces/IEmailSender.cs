@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Shared.Web.Interfaces
+namespace BaseProject.Web.Interfaces
 {
     public interface IEmailSender
     {

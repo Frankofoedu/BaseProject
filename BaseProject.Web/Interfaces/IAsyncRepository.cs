@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Shared.Web.Interfaces
+namespace BaseProject.Web.Interfaces
 {
     public interface IAsyncRepository<T> where T : class
     {
