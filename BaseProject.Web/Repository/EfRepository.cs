@@ -1,14 +1,14 @@
 ﻿using Ardalis.Specification;
 using Ardalis.Specification.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using Shared.Interfaces;
-using Shared.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using BaseProject.Web.Interfaces;
+using BaseProject.Web.Models;
 
-namespace Shared.Web.Repository
+namespace BaseProject.Web.Repository
 {
     public class EfRepository<T> : IAsyncRepository<T> where T : class
     {

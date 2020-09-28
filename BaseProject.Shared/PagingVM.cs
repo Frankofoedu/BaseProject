@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Shared.ViewModels
+namespace BaseProject.ViewModels
 {
     public class PagingVM
     {
